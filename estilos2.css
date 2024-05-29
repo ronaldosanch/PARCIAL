@@ -1,0 +1,200 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    ;
+}
+#mainheader{
+    display:;
+    justify-content: ;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+.h1header{
+    font-size: 60px;
+    font-style: italic;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    ;
+    text-align: center;
+}
+.h1header:hover{
+    color: rgb(125, 125, 125);
+    
+}
+.ulheader{
+    align-items: center;
+ ;
+    width: 100%;
+    ;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: ;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+.liheader{
+    list-style: none;
+    font-size:
+    
+
+}
+a{
+    font-style: none;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+
+}
+header{
+    position: sticky;
+}
+audio{
+    opacity: 0;
+    height: 1px;
+}
+/************/
+#contenedordeimagen1{
+    background-color:ed;
+    display: flex;
+    justify-content: center;
+}
+.imagenblog{
+    margin-top: 210px;
+
+}
+
+.contenidotextoblog{
+    background-color: lue;
+    height: 170px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#contenidoblog{
+    background-color: ed;
+    width: 55%;
+    padding: 20px;
+}
+#contenidoblog p{
+    text-align: justify;
+}
+#contenidoblog h1{
+    text-align: center;
+    font-size: 30px;
+}
+#segundocontenidoblog{
+    background-color: ed;
+    display: flex;
+    justify-content: center;
+    flex-direction: ;
+    width: 55%;
+    padding: 10px;
+    align-items: center;
+
+}
+#segundocontenidoblog img{
+    float: left;
+    margin-right: 20px;
+}
+#segundocontenidoblog p{
+    text-align: justify;
+}
+.segundacaja{
+    background-color: lack;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+
+
+}
+#padrevideo{
+    height;
+:;
+}
+.contenedortercerparrafoblog{
+    display: flex;
+    justify-content: center;
+    background-color: lack;
+    height: ;
+
+}
+.parrafo3blog{
+    background-color: ed;
+    width: 55%;
+    display: flex;
+    text-align: justify;
+
+}
+.redesblog{
+    display: flex;
+    background-color: t;
+    justify-content: center;
+    height: 80px;
+    align-items: center;
+}
+#padredecontenedordevideo{
+    display: flex;
+    justify-content: center;
+}
+#contenedordevideos{
+    background-color: rd;
+    height: ;
+    width: 55%;
+    ;
+    margin-top: 200px;
+}
+.divdevideo1{
+    display: flex;
+    justify-content: center;
+}
+.contenedordesegundoparrafo{
+    background-color: lue;
+    height: 200px;
+    padding: 20px;
+    text-align: justify;
+}
+.contendordevimeo{
+    display: flex;
+    justify-content: center;
+}
+.contendordevimeo iframe{
+    border: 5px solid orang;
+    text-decoration: none;
+    }
+/***********/
+#maingaleria{
+    display: flex;
+    justify-content: center;
+    background-color: lack;
+    width: 100%;
+}
+.contenedorpadredegaleria{
+    background-color: ed;
+    width: 50%;
+}
+.galeria{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+figure{
+    text-align: center;
+}
+figure img{
+    max-width: 200px;
+    max-height: 200px;
+    padding: 15px;
+    height: 300px;
+}
+figure:hover{
+    background-color: red;
+    break-before: ;
+}
+figure{
+    filter: grayscale(90%);
+}

@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+body{
+    background-color: ;
+}
+#contenedor{
+    background-color: ;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 90px; 
+    margin: 0 0 0 -25%; 
+    flex-direction: column;
+    padding: 20px;
+    position: relative;
+    z-index: 2;
+}
+#main{
+    min-height: 100vh;
+    position: relative;
+}
+video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.capa{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1c1c1d;
+    opacity: 0.2;
+    mix-blend-mode: overlay;
+
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: ;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px; 
+    margin-bottom: 0; 
+
+    font-style: italic;
+}
+p{
+    text-align: center;
+    font-weight: bol;
+    line-height: 1.1;
+    color: aliceblue;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+  
+    
+}
+  
+
+.lista{
+    background-color: ;
+    width: 40%;
+    justify-content: space-between;
+
+    
+    ;
+}
+.ulpantalla{
+    background-color: ;
+    display: flex;
+    margin: ;
+    justify-content: space-between;
+    font-size: 10px;
+    width: 100%;
+    align-items: center;
+}
+.lipantalla{
+    background-color: ;
+    ;
+    color: aliceblue;
+    justify-content: space-evenly;
+    list-style: none;
+    text-align: center;
+    font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.alist:hover{
+    color: yellow;
+}
+.lipantalla:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.redes{
+    color: ;
+    background-color: re;
+    width: 80px;
+    text-decoration: none;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+audio{
+    opacity:;
+}
+
+a:hover{
+ background-color:   ;
+}
+/**/
+
+.h1header{
+    text-align: center;
+    color: black;
+    background-color: ;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px; 
+    margin-bottom: 0; 
+
+    font-style: italic; 
+}
